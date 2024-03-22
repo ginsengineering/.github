@@ -1,2 +1,2 @@
 ## Genseng
-We write legacy code, antipatterns, code smells, and bloatware. \
+We write legacy code, antipatterns, code smells, and bloatware.
